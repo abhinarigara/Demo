@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         print("This is first commit test")
         print("This is fix/issue branch test")
+        print("Third change")
+        print("Forth commit test")
     }
 
     override func didReceiveMemoryWarning() {
